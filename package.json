@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/voiceboxer/react-format-text#readme",
   "dependencies": {
-    "linkify-it": "^1.2.1",
+    "linkify-it": "^2.0.3",
     "tlds": "^1.121.0"
   },
   "devDependencies": {
